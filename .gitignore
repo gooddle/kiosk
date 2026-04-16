@@ -13,6 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/
+
 
 # 추가 권장
 *.keystore
